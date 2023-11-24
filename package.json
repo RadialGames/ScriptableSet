@@ -1,0 +1,18 @@
+﻿{
+  "name": "com.radialgames.scriptableset",
+  "version": "1.0.0",
+  "displayName": "ScriptableSet",
+  "description": "A helper class to create ScriptableObject sets",
+  "unity": "2019.4",
+  "license": "MIT",
+  "keywords": [
+    "scriptableobject",
+    "sets"
+  ],
+  "author": {
+    "name": "Radial Games",
+    "email": "hello@radialgames.com",
+    "url": "https://github.com/RadialGames/ScriptableSet"
+  },
+  "type": "library"
+}
